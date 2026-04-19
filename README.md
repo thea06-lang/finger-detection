@@ -8,9 +8,10 @@ Detects how many fingers are held up using a webcam or phone camera, and sends t
 - Supports phone camera via IP Webcam app
 
 ## Requirements
-- Python 3.11
+- Python 3.11.9
 - OpenCV, MediaPipe, pyserial
 - Arduino connected to COM9
+- Robotic car
 - (Optional) IP Webcam app for Android
 
 ## Setup
